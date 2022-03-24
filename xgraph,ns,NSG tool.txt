@@ -1,0 +1,4 @@
+Xgraph : https://www.xgraph.org/linux/index.html
+NSG2.1.jar : https://github.com/wushoupong/NSG2/blob/master/NSG2.1.jar?raw=true
+JAVA: https://www.java.com/en/download/manual.jsp
+NS2 : https://github.com/sajidhasanapon/NS2

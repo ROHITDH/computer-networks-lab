@@ -1,0 +1,10 @@
+java -jar NSG2.1.jar
+
+sudo apt-get install ns2
+or
+use manual download and instll method
+
+ns exp.tcl
+
+awk -f exp.awk file1.tr > exp41.txt
+xgraph -x "time" -y "no of packets" -t "total pakets" exp42.txt exp41.txt 

@@ -1,0 +1,2 @@
+tcp packets sent by n0: 3410
+udp packets sent by n1: 875
