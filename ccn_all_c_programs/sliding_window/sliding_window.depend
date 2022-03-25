@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641736995 source:/home/rohitlinux/Desktop/ccn_practice/sliding_window/main.c
+	<stdio.h>
+	<stdlib.h>
+

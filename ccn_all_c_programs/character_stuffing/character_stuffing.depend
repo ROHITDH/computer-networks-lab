@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641747766 source:/home/rohitlinux/Desktop/ccn_practice/character_stuffing/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
