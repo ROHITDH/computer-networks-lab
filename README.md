@@ -24,10 +24,17 @@
 
 ## C PROGRAMS
 1.1 Bit Stuffing
+
 1.2 Byte/Character Stuffing 
+
 2.  Distance Vector Algorithm
+
 3.  Dijkstra Algorithm
+
 4.  CRC
+
 5.1 Stop and Wait Protocol
+
 5.2 Sliding Window Protocol
+
 6.  Leaky Bucket Algorithm
